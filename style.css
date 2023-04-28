@@ -27,6 +27,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 90vw;
 }
 
 .link {
@@ -61,6 +62,7 @@ svg path {
 }
 
 .logo {
+    width: 80vw;
     padding: 3rem 0;
 }
 
@@ -88,6 +90,7 @@ svg path {
 
 .info-about {
     font-size: 1.125rem;
+    font-family: 'Open sans';
     padding: 3.125rem 0 1.562rem 0;
 }
 
@@ -206,6 +209,7 @@ svg path {
         position: absolute;
         bottom: 10px;
         right: 120px;
+        margin-right: 1.562rem; 
     }
 
     .link {
