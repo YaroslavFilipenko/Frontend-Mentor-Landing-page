@@ -234,6 +234,7 @@ svg path {
 
     .main {
         position: unset;
+        margin: 0 auto;
     }
 
     .content {
